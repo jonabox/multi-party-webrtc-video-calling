@@ -1,0 +1,23 @@
+{
+  "name": "multi-party-webrtc-video-calling",
+  "version": "1.0.0",
+  "description": "Experimental dive into WebRTC's API with the goal of implementing a simple multi-party video conferencing web app",
+  "main": "chatserver.js",
+  "dependencies": {
+    "websocket": "^1.0.31"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonabox/multi-party-webrtc-video-calling.git"
+  },
+  "author": "Jonathan Esteban",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonabox/multi-party-webrtc-video-calling/issues"
+  },
+  "homepage": "https://github.com/jonabox/multi-party-webrtc-video-calling#readme"
+}
